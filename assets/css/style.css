@@ -1637,3 +1637,16 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+
+
+
+#header.header-scrolled, #header.header-inner-pages {
+    background: rgb(98, 45, 224);
+    padding: 2px 0;
+}
+#header {
+    transition: all 0.5s;
+    z-index: 997;
+    padding: 10px 0;
+}
